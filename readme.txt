@@ -1,5 +1,8 @@
 hi hello All
-git pull origin main
+git pull 
+----------------------------
+git status
 git add .
+git status
 git commit -m "Your message here"
 git push origin main
